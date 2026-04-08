@@ -6,5 +6,5 @@
 - Su dung Heroku
 
 ## Tac gia
-- Nguyễn Tring Kiên
-- Nhuyễn Văn Nhật 258
+- Nguyễn TrUng Kiên
+- Nguyễn Văn Nhật 258
