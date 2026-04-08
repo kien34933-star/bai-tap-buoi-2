@@ -6,4 +6,5 @@
 - Su dung Heroku
 
 ## Tac gia
-- Ten: ...
+- Nguyễn Tring Kiên
+- Nhuyễn Văn Nhật 258
